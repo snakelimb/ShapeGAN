@@ -27,3 +27,9 @@ Once Trained, load the best_model.pth with  Generator_UI.py
 **note** screenshot is of an earlier version with the Noise latent, which is now removed
 
 <img width="796" height="629" alt="Screenshot 2025-07-15 202143" src="https://github.com/user-attachments/assets/078d7474-3a6d-46dc-ba2b-bae996879c02" />
+
+
+The other two files make some cool shapes but have not been adapted to output samples in a format suitable for training data.
+
+<img width="1502" height="1686" alt="organisms microscopic" src="https://github.com/user-attachments/assets/c6fc962c-1d18-40d4-a247-5917fec17f93" />
+
